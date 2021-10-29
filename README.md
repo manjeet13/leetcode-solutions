@@ -1,1 +1,1 @@
-## Repo for Leetcode solutions just to keep everything at 1 place so that it's easier to come back and have a look.
+## Repo for Leetcode solutions just to keep everything at one place so that it's easier to come back and have a look.
